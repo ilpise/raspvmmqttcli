@@ -1,0 +1,26 @@
+{
+  "name": "raspvmmqttcli",
+  "version": "1.0.0",
+  "description": "mqtt vending machine client",
+  "main": "app.js",
+  "dependencies": {
+    "mqtt": "^2.3.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ilpise/raspvmmqttcli.git"
+  },
+  "keywords": [
+    "mqtt"
+  ],
+  "author": "ilpise",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ilpise/raspvmmqttcli/issues"
+  },
+  "homepage": "https://github.com/ilpise/raspvmmqttcli#readme"
+}
