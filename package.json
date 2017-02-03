@@ -4,7 +4,9 @@
   "description": "mqtt vending machine client",
   "main": "app.js",
   "dependencies": {
-    "mqtt": "^2.3.1"
+    "config": "^1.25.1",
+    "mqtt": "^2.3.1",
+    "node-watch": "^0.4.1"
   },
   "devDependencies": {},
   "scripts": {
