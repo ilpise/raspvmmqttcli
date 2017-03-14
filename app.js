@@ -2,6 +2,7 @@
 var config = require('config');
 var mqtt = require('mqtt')
 var fs = require('fs');
+var watch = require('node-watch');
 
 var broker = config.get('Broker.host');
 var seller = config.get('Membership.seller');
